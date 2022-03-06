@@ -6,7 +6,6 @@ export class App extends Component {
         return (
             <div>
                 <Header/>
-                <div className='h1 text-danger'>Hello ali</div>
             </div>
         )
     }
